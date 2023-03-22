@@ -1,0 +1,101 @@
+"id","name","team", "country", "game_year","game_week","rush_att","rush_yds","rush_avg","rush_tds","rush_fumbles","rec","rec_yds","rec_avg","rec_tds","rec_fumbles","pass_att","pass_yds","pass_tds","int","sck","pass_fumbles","rate","position"
+3c6bcd31-301d-4ee6-9f06-bf254bbff9be,William Terry,KC,Bermuda,2018,1,null,null,null,null,null,null,null,null,null,null,15,4,13,26,7,0,13.55,QB
+b8892516-d3b8-472a-b004-6a968a34902b,David Newman,PIT,Lesotho,2018,1,null,null,null,null,null,null,null,null,null,null,470,20,24,12,1,7,29.58,QB
+73b652e7-6530-4c61-b629-a9929678b332,Mason Suarez,TB,Panama,2018,1,53,81,51.48,85,89,16,2,80.98,11,16,null,null,null,null,null,null,null,RB
+d74ad251-2b68-42a2-a65f-2ecc359c69e8,Patrick Garrett,STL,Equatorial Guinea,2018,1,null,null,null,null,null,null,null,null,null,null,358,3,23,13,5,10,93.38,QB
+1951023e-d65e-49c3-a787-4e8eb771ad3b,William Phillips,JAX,Singapore,2018,1,null,null,null,null,null,null,null,null,null,null,169,4,20,20,1,0,74.73,QB
+7b199c8f-0df0-4292-a54c-14291639b84c,Victor Krueger,IND,Morocco,2018,1,17,65,29.47,11,52,2,0,53.16,5,0,null,null,null,null,null,null,null,WR/TE
+dccf0467-5479-42b8-8819-f2f74dea9c98,Ronald Thornton,LAC,Bahamas,2018,1,66,22,80.6,23,62,7,1,91.45,6,12,null,null,null,null,null,null,null,WR/TE
+674f696c-2804-4d90-9d30-b6d440f92049,Patrick Johnson,LA,Togo,2018,1,8,9,16.66,91,59,14,0,69.08,4,0,null,null,null,null,null,null,null,WR/TE
+76112e5e-e5d0-41cf-90df-4a90b08d7b83,Austin Acevedo,GB,Denmark,2018,1,89,21,63.3,96,35,1,11,37.45,4,8,null,null,null,null,null,null,null,RB
+af70c64b-7937-4e0c-84f8-3d41be3051d3,Karl Owens,NYJ,Burundi,2018,1,33,97,14.2,79,8,7,3,61.55,18,3,null,null,null,null,null,null,null,RB
+3cb90699-5ea9-4eea-be75-76cf0b058863,Christopher Sosa,CAR,Heard Island and McDonald Islands,2018,1,52,32,13.88,32,19,1,17,19.27,10,10,null,null,null,null,null,null,null,RB
+043d96ad-3a3a-4081-b0dd-85ea8873272b,Michael Harvey,JAC,Montserrat,2018,1,61,90,30.14,10,70,2,0,22.07,20,2,null,null,null,null,null,null,null,RB
+1a61ab68-47eb-426c-81b4-b125d71f7d9b,Robert Cole,CAR,Latvia,2018,1,68,38,15.85,58,74,11,0,27.77,20,20,null,null,null,null,null,null,null,RB
+04e0b08a-2a7d-43e4-81e3-a894d8aa139f,William Matthews,JAX,Greece,2018,1,null,null,null,null,null,null,null,null,null,null,577,37,4,28,5,0,78.95,QB
+1e3224eb-8ad7-424a-b426-bb73e460680c,Billy Green,CLE,Monaco,2018,1,22,87,95.81,80,40,3,5,66.42,1,18,null,null,null,null,null,null,null,WR/TE
+9b5d7f6c-de92-45a4-84fd-061eec7ec55e,Andrew Chung,NO,Samoa,2018,1,70,100,45.58,41,75,13,4,47.4,8,6,null,null,null,null,null,null,null,RB
+cd94ef18-8fa0-4bde-99ef-9c6d41f45e90,Dennis Wolf,DEN,Northern Mariana Islands,2018,1,null,null,null,null,null,null,null,null,null,null,407,16,31,39,5,5,6.1,QB
+05dca990-2a8a-4aff-ba96-ea4b73a3c322,Jimmy Delgado,PHI,Cayman Islands,2018,1,null,null,null,null,null,null,null,null,null,null,423,28,34,1,6,1,55.89,QB
+4e5b8863-0dbe-4125-a7d7-f0ac7203d4db,Scott Roach,JAX,Kyrgyz Republic,2018,1,41,64,96.02,82,98,4,10,78.81,16,12,null,null,null,null,null,null,null,WR/TE
+b57a89ce-11ab-45c1-a83a-18d6f1316433,Richard Taylor,ARI,Bermuda,2018,1,null,null,null,null,null,null,null,null,null,null,211,1,31,3,9,3,34.45,QB
+91220fb5-d6cd-44ae-80a9-9f2c783892e6,Matthew Taylor,BAL,Equatorial Guinea,2018,1,80,43,0.7,76,38,5,1,19.23,2,13,null,null,null,null,null,null,null,WR/TE
+111f711d-ff2f-4d46-9a46-cd30af466518,Robert Wells,MIA,Niger,2018,1,null,null,null,null,null,null,null,null,null,null,418,12,37,31,8,1,34.41,QB
+4b3a66a5-6dbf-4ecf-9961-eebfe2f6cb59,Jeff Jenkins,JAC,Bahamas,2018,1,65,29,81.11,5,68,16,9,42.36,2,17,null,null,null,null,null,null,null,RB
+de7fad41-015d-4521-9678-0a9f64c598ff,Michael Arias,IND,Romania,2018,1,71,88,86.55,77,70,17,7,28.87,8,1,null,null,null,null,null,null,null,RB
+f3a3b866-eb4c-4f1c-9f35-5ed633c63bba,Michael Larson,BAL,Croatia,2018,1,57,47,48.43,8,83,14,17,17.37,19,2,null,null,null,null,null,null,null,RB
+b503379b-d79e-4700-ae90-886f19d73319,Samuel Williams,DET,Finland,2018,1,16,24,22.82,57,53,15,18,68.89,13,3,null,null,null,null,null,null,null,WR/TE
+4af75e90-c672-4807-8668-56d908cbd29b,Jeffrey Valenzuela,TB,Mongolia,2018,1,null,null,null,null,null,null,null,null,null,null,545,15,37,33,3,6,64.39,QB
+1416df9e-a9e8-4714-ae4a-0b76b63b706d,Hunter Hart,SF,Syrian Arab Republic,2018,1,null,null,null,null,null,null,null,null,null,null,483,20,18,18,7,4,33.87,QB
+ff421742-02fe-47ba-8adb-b737446a1222,Dominic Levy,GB,Dominica,2018,1,24,22,56.32,26,68,18,8,31.86,15,9,null,null,null,null,null,null,null,WR/TE
+7551f156-e7df-40c1-a56a-70efdf3b8527,Dustin Jordan,CHI,Kiribati,2018,1,65,30,5.84,100,62,13,3,13.28,9,8,null,null,null,null,null,null,null,RB
+95b1c2be-43c0-4680-9adf-b4106d6bed6b,William Johnson,TB,Ghana,2018,1,null,null,null,null,null,null,null,null,null,null,214,20,31,30,3,2,13.82,QB
+2e06a52b-69d9-4a3a-bfc0-8f8eeb6a939d,Gregory Compton,GB,Angola,2018,1,87,78,36.81,63,61,2,15,94.26,5,11,null,null,null,null,null,null,null,WR/TE
+f754936a-75bf-4ab4-83fa-65f1cba0ca80,Jerry Meyer Jr.,KC,Ukraine,2018,1,68,35,90.87,77,78,14,12,61.26,5,7,null,null,null,null,null,null,null,WR/TE
+385269ac-0293-4baf-901c-7c38298d2f33,Charles Lowe,DET,Israel,2018,1,96,2,30.97,40,91,11,18,24.81,1,13,null,null,null,null,null,null,null,WR/TE
+9905a7f0-4ab3-4f5f-af9a-8c68ea53d27e,Michael Sanders,SF,Ukraine,2018,1,null,null,null,null,null,null,null,null,null,null,567,33,39,35,2,4,21.39,QB
+a1f38c8a-9a3a-4214-a0d1-d4d04fc12e0e,Marcus Burgess,JAC,Greece,2018,1,null,null,null,null,null,null,null,null,null,null,229,32,17,31,9,5,94.22,QB
+da4058a2-7f45-484e-bc5b-eca2e3b67743,Peter Lamb,SF,Norfolk Island,2018,1,53,37,6.7,69,30,15,9,20.79,6,8,null,null,null,null,null,null,null,WR/TE
+7ffda118-8639-46fa-a9c6-41b4a9f382da,Jeremy Castro,ARI,Slovenia,2018,1,39,4,5.97,37,97,4,2,17.6,14,15,null,null,null,null,null,null,null,WR/TE
+50ce3034-8e9c-44d6-8ce5-bf3a1a98686b,Bradley Robertson,JAC,Macedonia,2018,1,null,null,null,null,null,null,null,null,null,null,262,39,38,36,1,5,76.89,QB
+18ba3f05-d2d8-4a14-bd85-22fdcf145c37,Matthew Ruiz,NYG,Anguilla,2018,1,null,null,null,null,null,null,null,null,null,null,425,17,27,2,5,0,0.97,QB
+f5a04856-715c-466e-b1d0-dd6d99dbb899,Joshua Williams,TEN,Bhutan,2018,1,null,null,null,null,null,null,null,null,null,null,174,24,34,37,1,0,24.13,QB
+f67d95be-3782-4655-9f40-15ed4256086d,Andrew Ramirez,STL,Costa Rica,2018,1,33,0,59.8,92,33,19,17,8.59,11,15,null,null,null,null,null,null,null,RB
+bffd1369-e296-4891-b7bb-ca1b15e74f20,Chris Green,NYJ,Venezuela,2018,1,89,94,17.01,54,14,16,13,7.83,8,2,null,null,null,null,null,null,null,RB
+bfbf64b7-4294-48f0-a9ed-7971e890c2ec,Scott Holloway,MIA,Djibouti,2018,1,69,48,62.54,19,70,17,18,25.37,9,9,null,null,null,null,null,null,null,WR/TE
+38be5747-5750-44e0-8579-ac9440283d8d,Melvin Barton,SF,Tonga,2018,1,null,null,null,null,null,null,null,null,null,null,288,6,0,27,6,7,85.07,QB
+ea221d90-93c6-4e33-a5f8-425973396ad6,Michael Valdez,ARI,Western Sahara,2018,1,23,69,47.6,81,10,9,16,32.05,14,6,null,null,null,null,null,null,null,RB
+1e77d89d-edd0-49a8-a83c-383448ca309e,Jeffrey Young,PHI,Dominica,2018,1,16,26,84.52,58,89,7,7,32.05,8,4,null,null,null,null,null,null,null,WR/TE
+cbb138d0-3138-40c2-b2b8-d5959d05cedd,Brandon Williams,CLE,French Southern Territories,2018,1,2,58,30.05,86,76,11,9,55.79,7,10,null,null,null,null,null,null,null,WR/TE
+0979ad1b-0b3e-479c-8927-8b9a8b7521f0,Duane Rowland,CHI,Egypt,2018,1,null,null,null,null,null,null,null,null,null,null,109,24,37,5,6,0,41.0,QB
+bf4778bd-0c98-4c3a-b413-694ee2af0b8c,Tanner Chavez,JAC,Taiwan,2018,1,88,61,8.0,96,12,1,3,65.3,2,17,null,null,null,null,null,null,null,RB
+3e54eceb-f44a-4974-ad74-8846a15359e7,Adam Cunningham,BUF,Pitcairn Islands,2018,1,68,5,79.07,18,56,10,2,91.6,8,15,null,null,null,null,null,null,null,RB
+25ae0210-e7e4-464d-a612-c5a0818e734d,Devin Obrien,BUF,Singapore,2018,1,10,73,10.04,60,69,13,10,86.4,7,10,null,null,null,null,null,null,null,WR/TE
+795d86f9-2b43-4bc2-a01c-9d61db0b5e1c,Randy Graham,HOU,Libyan Arab Jamahiriya,2018,1,null,null,null,null,null,null,null,null,null,null,174,35,29,18,7,9,51.78,QB
+671ce501-b331-489a-bd54-41f7e297db6a,Andrew Phillips,ARI,Botswana,2018,1,34,55,36.14,52,68,17,14,10.83,15,17,null,null,null,null,null,null,null,WR/TE
+94c48898-5342-4461-9f4c-19dceac81dcf,Michael Johnson,MIN,Cambodia,2018,1,32,60,38.42,55,45,4,7,37.84,8,20,null,null,null,null,null,null,null,WR/TE
+0fd39d58-3c84-452b-b623-b42f3a61f766,Nathan Hampton,PIT,Costa Rica,2018,1,1,83,5.49,0,64,9,9,19.4,13,5,null,null,null,null,null,null,null,WR/TE
+e6789cb0-ea20-4007-b322-069e8ef4584f,William Ray,NYG,Croatia,2018,1,null,null,null,null,null,null,null,null,null,null,45,25,13,36,3,9,53.08,QB
+4de7ed4b-3a4f-440e-9c02-2bb164c53401,Matthew Mills,OAK,Turkmenistan,2018,1,99,93,14.33,48,84,19,1,73.08,13,18,null,null,null,null,null,null,null,WR/TE
+317794df-7c4e-4259-88ab-6a29bcd2bb12,Richard Jones,IND,Bangladesh,2018,1,44,59,35.4,97,14,13,4,57.38,3,12,null,null,null,null,null,null,null,WR/TE
+ef07112f-5075-447e-bd96-f90741c150bd,Daniel Carson,IND,Togo,2018,1,null,null,null,null,null,null,null,null,null,null,37,40,29,21,7,3,33.07,QB
+3be0c46c-5f2d-4c62-8bb2-e4cf0367203e,Keith Baker,KC,Guyana,2018,1,null,null,null,null,null,null,null,null,null,null,394,37,18,17,4,9,87.87,QB
+2103b9fa-b7aa-4965-8e20-f978f7337ad3,Jermaine Hickman,PIT,Russian Federation,2018,1,9,92,34.72,14,31,17,10,24.72,3,19,null,null,null,null,null,null,null,WR/TE
+67f75713-0f1b-4940-a9c8-0185f82ed389,Nicholas Mitchell,MIN,Grenada,2018,1,null,null,null,null,null,null,null,null,null,null,292,14,7,39,7,2,64.83,QB
+c11dc869-af71-42bd-8a3b-e94996b04b7d,Bobby Sellers,PIT,Tokelau,2018,1,null,null,null,null,null,null,null,null,null,null,489,1,28,29,1,4,36.63,QB
+e60dba4a-c630-43c1-824d-b07beb8bab19,Larry Carlson,MIN,Niue,2018,1,7,31,79.36,29,96,17,20,80.18,14,13,null,null,null,null,null,null,null,WR/TE
+29496d52-3360-4cfa-8e21-0ab7425ca78c,Terry Scott,SEA,Bangladesh,2018,1,17,3,15.91,85,73,18,15,7.47,9,1,null,null,null,null,null,null,null,WR/TE
+f4fef5bc-68d6-4cf9-9dda-99e447fdf766,Seth Taylor,DET,Macedonia,2018,1,55,24,33.32,55,45,9,13,29.47,1,7,null,null,null,null,null,null,null,RB
+73f5fb98-a41c-46d5-9cb1-468c919a21f3,Thomas Phelps,DAL,Singapore,2018,1,86,16,24.65,54,19,20,1,77.75,5,3,null,null,null,null,null,null,null,WR/TE
+14e87008-7948-4f87-a77d-a635c5fc48e3,James Smith,NYG,Christmas Island,2018,1,54,6,61.68,38,62,4,18,12.62,9,5,null,null,null,null,null,null,null,WR/TE
+1c4d6f35-b436-4720-adc1-432549ec950e,John Jenkins,NYJ,Netherlands,2018,1,67,79,46.58,65,89,0,0,13.78,19,19,null,null,null,null,null,null,null,RB
+483b19a4-d968-44b7-999a-255984c65c77,Carl Perez,LAC,New Zealand,2018,1,87,15,32.79,0,100,16,0,97.48,1,10,null,null,null,null,null,null,null,WR/TE
+d654ff0b-8a8b-4ea1-a951-ce6cb4b5d16c,Johnny Francis,SD,Czech Republic,2018,1,88,19,90.14,55,84,11,13,28.78,13,0,null,null,null,null,null,null,null,WR/TE
+04978606-3aa4-4c3e-bb27-32f232c326fa,Anthony Butler,ATL,Croatia,2018,1,null,null,null,null,null,null,null,null,null,null,90,32,21,14,1,2,10.47,QB
+05f70058-df14-433b-9236-5d90d523afb7,Anthony Howell,HOU,Egypt,2018,1,null,null,null,null,null,null,null,null,null,null,342,18,35,22,1,4,0.52,QB
+c16fc294-b3e5-482f-ab75-27e05120f427,Brandon Ward,WAS,Guyana,2018,1,25,77,54.31,10,15,4,16,1.84,12,6,null,null,null,null,null,null,null,WR/TE
+a1da17bc-02df-4eed-93f0-691f600c8c2d,Dakota Smith,KC,Estonia,2018,1,54,19,54.43,68,7,17,17,22.57,15,2,null,null,null,null,null,null,null,RB
+c536b21e-c797-40de-97d2-7479a6ba2df5,Collin Lewis,TEN,Belarus,2018,1,null,null,null,null,null,null,null,null,null,null,122,27,9,23,7,4,51.48,QB
+32aab915-d808-4fd6-b129-f04af894e1b2,Joshua Smith,WAS,Belize,2018,1,null,null,null,null,null,null,null,null,null,null,478,35,35,23,2,3,66.6,QB
+2e399d89-58ff-4991-ad5a-33478ce87ef1,Anthony Lewis,CIN,India,2018,1,60,88,52.55,87,31,3,6,4.6,9,11,null,null,null,null,null,null,null,WR/TE
+9ca4540b-e60a-431a-97f2-0965b249b2cb,Stanley Harvey,ARI,United States Minor Outlying Islands,2018,1,13,35,62.27,66,34,0,10,60.3,15,14,null,null,null,null,null,null,null,WR/TE
+b5f5ca93-d76e-4364-9b56-0ebf9de70b7f,William Sims,NE,United Kingdom,2018,1,14,29,99.67,34,85,12,9,15.62,18,3,null,null,null,null,null,null,null,RB
+e3ebfb73-5a9c-46e2-9344-e1b4be94d5df,Oscar Cline,WAS,Kenya,2018,1,null,null,null,null,null,null,null,null,null,null,453,25,31,7,3,1,68.86,QB
+a01e5c2c-0b2e-438c-9bf0-3f47355a6a7d,Bruce Choi,NYJ,Equatorial Guinea,2018,1,3,8,77.83,58,40,20,15,58.19,0,19,null,null,null,null,null,null,null,WR/TE
+77edabc2-e497-46cb-b45c-29cfe054f468,Robert Long,CIN,Georgia,2018,1,null,null,null,null,null,null,null,null,null,null,353,32,14,26,9,1,7.03,QB
+f856d221-0755-4e42-a14f-cc01c440a9c9,Sean Dorsey,OAK,Norfolk Island,2018,1,null,null,null,null,null,null,null,null,null,null,287,39,16,4,5,4,43.63,QB
+fbb609b7-1d35-4673-8ac2-cc4545f2e316,Jeffrey Williams DDS,SD,Hong Kong,2018,1,88,50,76.15,87,46,18,14,8.38,0,17,null,null,null,null,null,null,null,RB
+07977a32-6b28-452f-bd8a-2a2f140f22ec,Nicholas Schmidt,BAL,Sweden,2018,1,null,null,null,null,null,null,null,null,null,null,121,22,12,39,8,9,33.68,QB
+4d07d8e4-abcc-40b8-b153-6e373f5c63e5,Michael Khan,BAL,Liberia,2018,1,67,43,34.46,74,55,12,11,28.4,9,7,null,null,null,null,null,null,null,WR/TE
+7074e82c-6dd0-49bb-b80a-03a85bd1bdcf,Joel Melendez,CAR,Moldova,2018,1,52,39,81.25,50,97,17,14,64.45,12,11,null,null,null,null,null,null,null,WR/TE
+b0a821ee-f8be-42ff-abb7-e41a2e0a1553,Justin Donaldson,TB,Greenland,2018,1,91,100,80.06,38,26,10,11,30.02,15,16,null,null,null,null,null,null,null,RB
+09b33bce-a983-4ca3-8c49-10050f612eba,Anthony Clements,JAC,Montenegro,2018,1,10,26,39.65,62,72,5,19,46.84,10,12,null,null,null,null,null,null,null,RB
+447e2d45-de03-40a3-97d4-c939f13cb6ff,Michael Pittman,SF,Mozambique,2018,1,75,57,30.81,23,70,9,1,60.55,7,20,null,null,null,null,null,null,null,WR/TE
+3f92b144-3b41-4c18-bdf2-8e65f04a662d,Henry Kirk,CAR,Iceland,2018,1,9,95,7.79,6,12,16,17,86.73,20,9,null,null,null,null,null,null,null,RB
+91a324ea-d9b7-401e-83e7-e940b51eb8b7,Terry Parsons,JAX,Ukraine,2018,1,53,41,91.43,78,89,7,11,47.57,9,6,null,null,null,null,null,null,null,RB
+d0de4158-aaac-4af9-b7ed-31da7d104686,William Carroll,NE,Timor-Leste,2018,1,null,null,null,null,null,null,null,null,null,null,104,28,17,13,1,3,45.42,QB
+286744a6-1f8d-4aec-a973-db92dd5c5575,Joseph Figueroa,MIN,Peru,2018,1,45,55,74.43,7,27,20,10,87.69,6,5,null,null,null,null,null,null,null,RB
+298d23c6-85f6-4199-bc94-f9b1b044042d,Henry Hernandez,CIN,Mexico,2018,1,19,49,66.51,42,3,20,0,1.8,10,3,null,null,null,null,null,null,null,RB
+a5e8f86f-a6b7-4765-870f-9edc16b97de2,Robert Navarro,PIT,Saint Kitts and Nevis,2018,1,null,null,null,null,null,null,null,null,null,null,6,14,39,20,9,3,85.97,QB
+88641716-3f57-411e-941a-7473834f066f,Benjamin Hayes,ATL,Syrian Arab Republic,2018,1,null,null,null,null,null,null,null,null,null,null,167,0,27,17,2,7,72.78,QB
+e9e77062-64af-4e58-b50c-ff21b554d49c,Justin Payne,PHI,Comoros,2018,1,null,null,null,null,null,null,null,null,null,null,107,30,39,18,0,9,78.21,QB
